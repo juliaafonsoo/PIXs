@@ -1,0 +1,5912 @@
+[
+  {
+    "NOME ": "Alessandro Henrique de Moura",
+    "CPF": "076.733.467-10",
+    "COD BANCO": 33,
+    "BANCO": "SANTANDER",
+    "AGENCIA": "2352",
+    "CONTA": "01000614-4",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27) 996273407"
+  },
+  {
+    "NOME ": "Barbara Varussa Cardoso",
+    "CPF": "160.685.007-56",
+    "COD BANCO": "",
+    "BANCO": "Nu Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "83604744-7",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "barbara.cardoso16@hotmail.com"
+  },
+  {
+    "NOME ": "Bernardo Nunes Senna",
+    "CPF": "154.455.957-00",
+    "COD BANCO": "",
+    "BANCO": "Itaú Personalite",
+    "AGENCIA": "9604",
+    "CONTA": "03793 8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "154.455.957-00"
+  },
+  {
+    "NOME ": "Bianca Abreu Bessert",
+    "CPF": "144.554.357-51",
+    "COD BANCO": "",
+    "BANCO": "Caixa",
+    "AGENCIA": "0170",
+    "CONTA": "1288 000764340123-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "144.554.357-51"
+  },
+  {
+    "NOME ": "Dayan Kirmse Mazolini",
+    "CPF": "139.509.287-74",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "02000848-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "139.509.287-74"
+  },
+  {
+    "NOME ": "Erika Ferraz Costa",
+    "CPF": "179.911.077-01",
+    "COD BANCO": 77,
+    "BANCO": "INTER",
+    "AGENCIA": "0001",
+    "CONTA": "1968649-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "179.911.077-01"
+  },
+  {
+    "NOME ": "Felipe Colli Silva",
+    "CPF": "147.967.537-70",
+    "COD BANCO": "",
+    "BANCO": "SICOOB",
+    "AGENCIA": "3008",
+    "CONTA": "1048090",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27) 992675197"
+  },
+  {
+    "NOME ": "Felipe Zucolotto Machado",
+    "CPF": "174.740.087-42",
+    "COD BANCO": 260,
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": "31457558-5",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "174.740.087-42"
+  },
+  {
+    "NOME ": "Fernanda Lima Fassarella",
+    "CPF": "179.999.697-29",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1939",
+    "CONTA": "010001822",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "179.999.697-29"
+  },
+  {
+    "NOME ": "Isabella Siqueira Barreto",
+    "CPF": "167.614.047-62",
+    "COD BANCO": "",
+    "BANCO": "Siccoob",
+    "AGENCIA": "3008",
+    "CONTA": "255.429-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "167.614.047-62"
+  },
+  {
+    "NOME ": "Jennyfer Teles Nespoli",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "João Victor Cordeiro da Cruz Pilon",
+    "CPF": "162.140.287-85",
+    "COD BANCO": "(0260)",
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": ":48588921-1",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997441511"
+  },
+  {
+    "NOME ": "Julia Duda Sampaio",
+    "CPF": "147.360.067-73",
+    "COD BANCO": "(0260)",
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": "49708237-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "147.360.067-73"
+  },
+  {
+    "NOME ": "Laura Campagnaro Ramos",
+    "CPF": "172.599.217-57",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "3345",
+    "CONTA": "02016688-8",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997900505"
+  },
+  {
+    "NOME ": "Lorena Pimentel Rodrigues",
+    "CPF": "105.777.227-51",
+    "COD BANCO": "",
+    "BANCO": "banestes",
+    "AGENCIA": "685",
+    "CONTA": "2746057-5",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997119081"
+  },
+  {
+    "NOME ": "Luana Maria Silva Pires",
+    "CPF": "070.702.746-29",
+    "COD BANCO": "",
+    "BANCO": "ITAU",
+    "AGENCIA": "0870",
+    "CONTA": "73833-3",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)999421407"
+  },
+  {
+    "NOME ": "Lucca Vieira Tineli",
+    "CPF": "113.206.177-60",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6 S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "28716660-0",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "f684ea25-5c17-4e9f-a42a-efa293d27c4d"
+  },
+  {
+    "NOME ": "Luiz Tadeu Oliveira",
+    "CPF": "579.634.797-72",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "1945",
+    "CONTA": ":01001138-99",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "(27)998084424"
+  },
+  {
+    "NOME ": "Marcelo Cristiano Lins Martins",
+    "CPF": "654.318.471-04",
+    "COD BANCO": "",
+    "BANCO": "BRASIL",
+    "AGENCIA": "4043-6",
+    "CONTA": "107841-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "654.318.471-04"
+  },
+  {
+    "NOME ": "Marcelo de Oliveira Machado",
+    "CPF": "008.073.337-94",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7074",
+    "CONTA": "00605-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "008.073.337-94"
+  },
+  {
+    "NOME ": "Mateus Bomfim de Andrade",
+    "CPF": "035.602.165-32",
+    "COD BANCO": "",
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": "54985576-6",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "mateusbomfim1206@gmail.com"
+  },
+  {
+    "NOME ": "Moacir José Aragão Pansini",
+    "CPF": "116.676.037-52",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "11667-4",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)981015939"
+  },
+  {
+    "NOME ": "Nathalia Domingos Valim",
+    "CPF": "123.273.387-35",
+    "COD BANCO": "",
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "104700-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "123.273.387-35"
+  },
+  {
+    "NOME ": "Nicolas de Carvalho Azevedo",
+    "CPF": "090.679.796-94",
+    "COD BANCO": "",
+    "BANCO": "BRASIL",
+    "AGENCIA": "4035-5",
+    "CONTA": "19753-0",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)999302317"
+  },
+  {
+    "NOME ": "Renata Rodrigues Alves",
+    "CPF": "129.368.907-64",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "02152-8",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)998443820"
+  },
+  {
+    "NOME ": "Ricardo Gonçalves Martins",
+    "CPF": "059.216.827-13",
+    "COD BANCO": 21,
+    "BANCO": "BANESTES S.A",
+    "AGENCIA": "83",
+    "CONTA": "3800600-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "059.216.827-13"
+  },
+  {
+    "NOME ": "Verojunior Simão Bernardino",
+    "CPF": "096.706.017-62",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7816",
+    "CONTA": "00765-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "096.706.017-62"
+  },
+  {
+    "NOME ": "Vitória Fernandes Barros",
+    "CPF": "118.850.527-07",
+    "COD BANCO": "",
+    "BANCO": "BRASIL",
+    "AGENCIA": "3790-7",
+    "CONTA": "38965-x",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "118.850.527-07"
+  },
+  {
+    "NOME ": "Wilson Ferreira de Souza Júnior",
+    "CPF": "002.633.083-08",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "1945",
+    "CONTA": "1001188-4",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "Caldaselinete@gmail.com"
+  },
+  {
+    "NOME ": "Alana Silva Batista",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora SCD",
+    "AGENCIA": "0001",
+    "CONTA": "3304867-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "48.625.270/0001-14"
+  },
+  {
+    "NOME ": "Alex Lino Barreto",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Nu Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "398482368-0",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Ana Carolina Borges de Lima Leite",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "Dock IP",
+    "AGENCIA": "0001",
+    "CONTA": "5011379",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.617.561/0001-14"
+  },
+  {
+    "NOME ": "Ana Carolina Rocha Auer",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "51943-X",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "30.421.316/0001-18"
+  },
+  {
+    "NOME ": "Andre Luiz Paulino Mayworm",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "36845272-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.510.704/0001-04"
+  },
+  {
+    "NOME ": "Bunno Gonçalves Canal",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Stone Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "2827228-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "42.808.130/0001-03"
+  },
+  {
+    "NOME ": "Bruno Vasconcellos Rodrigues",
+    "CPF": "",
+    "COD BANCO": 360,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "16953035-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "37.376.716/0001-06"
+  },
+  {
+    "NOME ": "Caroline Barbosa Gomes",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "37381342-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.700.079/0001-55"
+  },
+  {
+    "NOME ": "Eduardo Lincoln de Siqueira Assunção",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "0001",
+    "CONTA": "6077773-0",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61563830000111
+  },
+  {
+    "NOME ": "Elen Demoner Rassele",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "348",
+    "AGENCIA": "1832657-4",
+    "CONTA": "1832657-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "61.182.067/0001-89"
+  },
+  {
+    "NOME ": "Filipe Rody Correa da Silva",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Banco: 208 - Banco BTG Pactual",
+    "AGENCIA": "50",
+    "CONTA": "009221470",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Ester Queiroz Galavotti Costa",
+    "CPF": "",
+    "COD BANCO": 360,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "37485736-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.736.642/0001-33"
+  },
+  {
+    "NOME ": "Gabriel Gonçalves Guimarães",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "INTER",
+    "AGENCIA": "0001",
+    "CONTA": "32471354-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "52.872.269/0001-61"
+  },
+  {
+    "NOME ": "Gabriela Nicoletti Schwambach Souza",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "238.607-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.542.486/0001-81"
+  },
+  {
+    "NOME ": "Geovana Kloss",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "geovana.kloss@gmail.com"
+  },
+  {
+    "NOME ": "Giovanna Pauletti  de Castro",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51534559000132
+  },
+  {
+    "NOME ": "Guilherme Rossi Tebaldi",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "BTG",
+    "AGENCIA": "0050",
+    "CONTA": "571857-6",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Gustavo Maffioletti Dalcumune",
+    "CPF": "",
+    "COD BANCO": 360,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "36996019-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.801.282/0001-43"
+  },
+  {
+    "NOME ": "Ianna Pereira Soares",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP S. A.",
+    "AGENCIA": "0001",
+    "CONTA": "5011806",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Igor Barroso Rangel",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "378111888-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55704569000120
+  },
+  {
+    "NOME ": "Isabela Leite Wanick Mattos",
+    "CPF": "",
+    "COD BANCO": 509,
+    "BANCO": "CELCOIN",
+    "AGENCIA": "0001",
+    "CONTA": "432734481",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57906367000196
+  },
+  {
+    "NOME ": "Jasmin Januth Vieira",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "QI SOC CRÉD",
+    "AGENCIA": "0001",
+    "CONTA": "6859506-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61491078000140
+  },
+  {
+    "NOME ": "Isabella Dal Col Picinin",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.307.674/0001-13"
+  },
+  {
+    "NOME ": "João Gabriel Siqueira Mendes",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "41222895-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.549.192/0001-70"
+  },
+  {
+    "NOME ": "Julia Pomaroli Dias",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "657033375-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58227728000130
+  },
+  {
+    "NOME ": "Juliana Gasperazzo Cabral",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57930160000157
+  },
+  {
+    "NOME ": "Karoline Queiroz Salvador",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "CORA SCD",
+    "AGENCIA": "0001",
+    "CONTA": "5253427-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.349.162/0001-57"
+  },
+  {
+    "NOME ": "Lara Martineli Lubiana",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "260",
+    "AGENCIA": "0001",
+    "CONTA": "333325684-9",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "61.402.123/0001-43"
+  },
+  {
+    "NOME ": "Lahís Nogueira Camatta Chaves",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora-SCD",
+    "AGENCIA": "0001",
+    "CONTA": "52923359",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.293.144/0001-75"
+  },
+  {
+    "NOME ": "Letícia Starling Fernandes",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "5011636",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 59162995000130
+  },
+  {
+    "NOME ": "Liza Valim de Mello",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "53921831-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57932081000185
+  },
+  {
+    "NOME ": "Lucas Lobo de Queiroz",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "459177281",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "50.605.703/0001-11"
+  },
+  {
+    "NOME ": "Luis Eduardo Almeida Chequer",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "033 Santander",
+    "AGENCIA": "4316",
+    "CONTA": "13006250-5",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lucas Mariton Albuquerque Fonseca",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55904364000198
+  },
+  {
+    "NOME ": "Manuela Pretti Laranja da Silva",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "42351641-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "593813550001-10"
+  },
+  {
+    "NOME ": "Maria Clara Matheus de Carvalho",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "0001",
+    "CONTA": "4311014-6",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61131484000100
+  },
+  {
+    "NOME ": "Maria Eduarda Rodrigues Zenateli",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.008.645/0001-50"
+  },
+  {
+    "NOME ": "Mariana de Souza Zandonade",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "50114-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57394491000110
+  },
+  {
+    "NOME ": "Matheus Costa Esperidon",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5373373-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.052.669/0001-07"
+  },
+  {
+    "NOME ": "Matheus Moura Novelli",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5455983-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.435.932/0001-47"
+  },
+  {
+    "NOME ": "Natalia Duarte Nunes",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "0001",
+    "CONTA": "3871555-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61008365000157
+  },
+  {
+    "NOME ": "Olga Felicia Caballero Gilardy Mantovani",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52218-X",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "31.023.439/0001-63"
+  },
+  {
+    "NOME ": "Otávio Ferreira Nunes",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "001",
+    "CONTA": "5011300",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.508.125/0001-07"
+  },
+  {
+    "NOME ": "Pedro Freire dos Santos",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52384-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "31.001.243/0001-78"
+  },
+  {
+    "NOME ": "Pedro Heleno de Almeida Duarte Filho",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "46679767-4",
+    "TIPO CHAVE PIX": "cnpj",
+    "CHAVE PIX": "46.435.083/0001-42"
+  },
+  {
+    "NOME ": "Pedro Henrique Viera Fonseca",
+    "CPF": "",
+    "COD BANCO": 197,
+    "BANCO": "Stone Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "2827228-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "42.808.130/0001-03"
+  },
+  {
+    "NOME ": "Pietra Sardinha Silvestre Mousinho Donato",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "501823",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.740.529/0001-69"
+  },
+  {
+    "NOME ": "Rafaela Gava Secchin",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "501728",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.017.917/0001-89"
+  },
+  {
+    "NOME ": "Ramon Ott Vargas",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "33 866 233 0001 20"
+  },
+  {
+    "NOME ": "Rebecca Bacellar Barreto de Sousa",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "501179-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 59632989000107
+  },
+  {
+    "NOME ": "Renzo Lamego Nunes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "040347965-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.723.234/0001-84"
+  },
+  {
+    "NOME ": "Shayenne Nogueira Domingues",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "849184929-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58771102000190
+  },
+  {
+    "NOME ": "Tatiana Fraga Fonseca",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "7800",
+    "CONTA": "170380-3",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "44.556.119/0001-10"
+  },
+  {
+    "NOME ": "Ana Claudia Rodrigues Ferreira",
+    "CPF": "104.887.856-26",
+    "COD BANCO": "",
+    "BANCO": "Itau",
+    "AGENCIA": "3041",
+    "CONTA": "32707-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "104.887.856-26"
+  },
+  {
+    "NOME ": "Camila Moreira Silva",
+    "CPF": "041.195.715-56",
+    "COD BANCO": "",
+    "BANCO": "Bradesco",
+    "AGENCIA": "1652",
+    "CONTA": "80399 - 5",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "041.195.715-56"
+  },
+  {
+    "NOME ": "Daniela Carvalho de Queiroz",
+    "CPF": "098.983.377-10",
+    "COD BANCO": "",
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3130-5",
+    "CONTA": "8593-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "098.983.377-10"
+  },
+  {
+    "NOME ": "Larissa Mendes do Monte",
+    "CPF": "016.093.926-71",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "04263-1",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(33)984184768"
+  },
+  {
+    "NOME ": "Laura Alvarenga Siqueira de Souza",
+    "CPF": "176.105.997-19",
+    "COD BANCO": "",
+    "BANCO": "SANTANDER",
+    "AGENCIA": "2304",
+    "CONTA": "010320793",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "176.105.997-19"
+  },
+  {
+    "NOME ": "Laura Pires Ligeiro",
+    "CPF": "101.590.096-85",
+    "COD BANCO": 77,
+    "BANCO": "INTER",
+    "AGENCIA": "0001",
+    "CONTA": "21631964-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "101.590.096-85"
+  },
+  {
+    "NOME ": "Lorena Pimentel Rodrigues",
+    "CPF": "105.777.227-51",
+    "COD BANCO": "",
+    "BANCO": "banestes",
+    "AGENCIA": "685",
+    "CONTA": "2746057-5",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997119081"
+  },
+  {
+    "NOME ": "Luiz Felipe Guimarães Lopes",
+    "CPF": "117.856.627-75",
+    "COD BANCO": "",
+    "BANCO": "Bradesco",
+    "AGENCIA": "2612",
+    "CONTA": "202843",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(21)982430809"
+  },
+  {
+    "NOME ": "Mariana Loureiro Rocha",
+    "CPF": "157.239.377-74",
+    "COD BANCO": "",
+    "BANCO": "Sicoob",
+    "AGENCIA": "3001",
+    "CONTA": "147966",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "157.239.377-74"
+  },
+  {
+    "NOME ": "Nays Pavani Barcellos",
+    "CPF": "139.188.817-09",
+    "COD BANCO": "",
+    "BANCO": "SANTANDER",
+    "AGENCIA": "1945",
+    "CONTA": "01001253-1",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)996897804"
+  },
+  {
+    "NOME ": "Sabrina Neres Quinino",
+    "CPF": "041.464.325-96",
+    "COD BANCO": "",
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3212-3",
+    "CONTA": "42155-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "041.464.325-96"
+  },
+  {
+    "NOME ": "Vitor Dadalto Oliveira",
+    "CPF": "141.932.097-17",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "3533",
+    "CONTA": "01092024-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "141.932.097-17"
+  },
+  {
+    "NOME ": "Amir Nasser Lauar",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "7678891-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "44.749.627/0001-15"
+  },
+  {
+    "NOME ": "Ana Luisa Barroso Schumaker",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "173871-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Bianca Paola da Silva Cea",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "32619994-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 46874140000190
+  },
+  {
+    "NOME ": "Fernando Lucas Carvalho de Oliveira",
+    "CPF": "",
+    "COD BANCO": 748,
+    "BANCO": "Sicred",
+    "AGENCIA": "0167",
+    "CONTA": "49786-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.760.899/0001-20"
+  },
+  {
+    "NOME ": "Gabriel Eurico Alves de Castro",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "13004411-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "33.346.296/0001-56"
+  },
+  {
+    "NOME ": "Isabela de Oliveira Lorenzutti",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "44416992-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53.161.880/0001-44"
+  },
+  {
+    "NOME ": "Júlia Baptista Leal",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Santaner",
+    "AGENCIA": "3345",
+    "CONTA": "02003036-9",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "154.266.517-52"
+  },
+  {
+    "NOME ": "Lídia Costa Barros Miranda",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "74-4",
+    "CONTA": "61510-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "52.240.214/0001-39"
+  },
+  {
+    "NOME ": "Alessandro Henrique de Moura",
+    "CPF": "076.733.467-10",
+    "COD BANCO": 33,
+    "BANCO": "SANTANDER",
+    "AGENCIA": "2352",
+    "CONTA": "01000614-4",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27) 996273407"
+  },
+  {
+    "NOME ": "Barbara Varussa Cardoso",
+    "CPF": "160.685.007-56",
+    "COD BANCO": "",
+    "BANCO": "Nu Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "83604744-7",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "barbara.cardoso16@hotmail.com"
+  },
+  {
+    "NOME ": "Bernardo Nunes Senna",
+    "CPF": "154.455.957-00",
+    "COD BANCO": "",
+    "BANCO": "Itaú Personalite",
+    "AGENCIA": "9604",
+    "CONTA": "03793 8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "154.455.957-00"
+  },
+  {
+    "NOME ": "Bianca Abreu Bessert",
+    "CPF": "144.554.357-51",
+    "COD BANCO": "",
+    "BANCO": "Caixa",
+    "AGENCIA": "0170",
+    "CONTA": "1288 000764340123-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "144.554.357-51"
+  },
+  {
+    "NOME ": "Dayan Kirmse Mazolini",
+    "CPF": "139.509.287-74",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "02000848-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "139.509.287-74"
+  },
+  {
+    "NOME ": "Erika Ferraz Costa",
+    "CPF": "179.911.077-01",
+    "COD BANCO": 77,
+    "BANCO": "INTER",
+    "AGENCIA": "0001",
+    "CONTA": "1968649-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "179.911.077-01"
+  },
+  {
+    "NOME ": "Felipe Colli Silva",
+    "CPF": "147.967.537-70",
+    "COD BANCO": "",
+    "BANCO": "SICOOB",
+    "AGENCIA": "3008",
+    "CONTA": "1048090",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27) 992675197"
+  },
+  {
+    "NOME ": "Felipe Zucolotto Machado",
+    "CPF": "174.740.087-42",
+    "COD BANCO": 260,
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": "31457558-5",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "174.740.087-42"
+  },
+  {
+    "NOME ": "Fernanda Lima Fassarella",
+    "CPF": "179.999.697-29",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1939",
+    "CONTA": "010001822",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "179.999.697-29"
+  },
+  {
+    "NOME ": "Isabella Siqueira Barreto",
+    "CPF": "167.614.047-62",
+    "COD BANCO": "",
+    "BANCO": "Siccoob",
+    "AGENCIA": "3008",
+    "CONTA": "255.429-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "167.614.047-62"
+  },
+  {
+    "NOME ": "Jennyfer Teles Nespoli",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "João Victor Cordeiro da Cruz Pilon",
+    "CPF": "162.140.287-85",
+    "COD BANCO": "(0260)",
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": ":48588921-1",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997441511"
+  },
+  {
+    "NOME ": "Julia Duda Sampaio",
+    "CPF": "147.360.067-73",
+    "COD BANCO": "(0260)",
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": "49708237-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "147.360.067-73"
+  },
+  {
+    "NOME ": "Laura Campagnaro Ramos",
+    "CPF": "172.599.217-57",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "3345",
+    "CONTA": "02016688-8",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997900505"
+  },
+  {
+    "NOME ": "Lorena Pimentel Rodrigues",
+    "CPF": "105.777.227-51",
+    "COD BANCO": "",
+    "BANCO": "banestes",
+    "AGENCIA": "685",
+    "CONTA": "2746057-5",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997119081"
+  },
+  {
+    "NOME ": "Luana Maria Silva Pires",
+    "CPF": "070.702.746-29",
+    "COD BANCO": "",
+    "BANCO": "ITAU",
+    "AGENCIA": "0870",
+    "CONTA": "73833-3",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)999421407"
+  },
+  {
+    "NOME ": "Lucca Vieira Tineli",
+    "CPF": "113.206.177-60",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6 S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "28716660-0",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "f684ea25-5c17-4e9f-a42a-efa293d27c4d"
+  },
+  {
+    "NOME ": "Luiz Tadeu Oliveira",
+    "CPF": "579.634.797-72",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "1945",
+    "CONTA": ":01001138-99",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "(27)998084424"
+  },
+  {
+    "NOME ": "Marcelo Cristiano Lins Martins",
+    "CPF": "654.318.471-04",
+    "COD BANCO": "",
+    "BANCO": "BRASIL",
+    "AGENCIA": "4043-6",
+    "CONTA": "107841-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "654.318.471-04"
+  },
+  {
+    "NOME ": "Marcelo de Oliveira Machado",
+    "CPF": "008.073.337-94",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7074",
+    "CONTA": "00605-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "008.073.337-94"
+  },
+  {
+    "NOME ": "Mateus Bomfim de Andrade",
+    "CPF": "035.602.165-32",
+    "COD BANCO": "",
+    "BANCO": "Nu Pagamentos S.A",
+    "AGENCIA": "0001",
+    "CONTA": "54985576-6",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "mateusbomfim1206@gmail.com"
+  },
+  {
+    "NOME ": "Moacir José Aragão Pansini",
+    "CPF": "116.676.037-52",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "11667-4",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)981015939"
+  },
+  {
+    "NOME ": "Nathalia Domingos Valim",
+    "CPF": "123.273.387-35",
+    "COD BANCO": "",
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "104700-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "123.273.387-35"
+  },
+  {
+    "NOME ": "Nicolas de Carvalho Azevedo",
+    "CPF": "090.679.796-94",
+    "COD BANCO": "",
+    "BANCO": "BRASIL",
+    "AGENCIA": "4035-5",
+    "CONTA": "19753-0",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)999302317"
+  },
+  {
+    "NOME ": "Renata Rodrigues Alves",
+    "CPF": "129.368.907-64",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "02152-8",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)998443820"
+  },
+  {
+    "NOME ": "Ricardo Gonçalves Martins",
+    "CPF": "059.216.827-13",
+    "COD BANCO": 21,
+    "BANCO": "BANESTES S.A",
+    "AGENCIA": "83",
+    "CONTA": "3800600-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "059.216.827-13"
+  },
+  {
+    "NOME ": "Verojunior Simão Bernardino",
+    "CPF": "096.706.017-62",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7816",
+    "CONTA": "00765-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "096.706.017-62"
+  },
+  {
+    "NOME ": "Vitória Fernandes Barros",
+    "CPF": "118.850.527-07",
+    "COD BANCO": "",
+    "BANCO": "BRASIL",
+    "AGENCIA": "3790-7",
+    "CONTA": "38965-x",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "118.850.527-07"
+  },
+  {
+    "NOME ": "Wilson Ferreira de Souza Júnior",
+    "CPF": "002.633.083-08",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "1945",
+    "CONTA": "1001188-4",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "Caldaselinete@gmail.com"
+  },
+  {
+    "NOME ": "Alana Silva Batista",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora SCD",
+    "AGENCIA": "0001",
+    "CONTA": "3304867-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "48.625.270/0001-14"
+  },
+  {
+    "NOME ": "Alex Lino Barreto",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Nu Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "398482368-0",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Ana Carolina Borges de Lima Leite",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "Dock IP",
+    "AGENCIA": "0001",
+    "CONTA": "5011379",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.617.561/0001-14"
+  },
+  {
+    "NOME ": "Ana Carolina Rocha Auer",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "51943-X",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "30.421.316/0001-18"
+  },
+  {
+    "NOME ": "Andre Luiz Paulino Mayworm",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "36845272-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.510.704/0001-04"
+  },
+  {
+    "NOME ": "Bunno Gonçalves Canal",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Stone Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "2827228-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "42.808.130/0001-03"
+  },
+  {
+    "NOME ": "Bruno Vasconcellos Rodrigues",
+    "CPF": "",
+    "COD BANCO": 360,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "16953035-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "37.376.716/0001-06"
+  },
+  {
+    "NOME ": "Caroline Barbosa Gomes",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "37381342-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.700.079/0001-55"
+  },
+  {
+    "NOME ": "Eduardo Lincoln de Siqueira Assunção",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "0001",
+    "CONTA": "6077773-0",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61563830000111
+  },
+  {
+    "NOME ": "Elen Demoner Rassele",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "348",
+    "AGENCIA": "1832657-4",
+    "CONTA": "1832657-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "61.182.067/0001-89"
+  },
+  {
+    "NOME ": "Filipe Rody Correa da Silva",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Banco: 208 - Banco BTG Pactual",
+    "AGENCIA": "50",
+    "CONTA": "009221470",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Ester Queiroz Galavotti Costa",
+    "CPF": "",
+    "COD BANCO": 360,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "37485736-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.736.642/0001-33"
+  },
+  {
+    "NOME ": "Gabriel Gonçalves Guimarães",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "INTER",
+    "AGENCIA": "0001",
+    "CONTA": "32471354-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "52.872.269/0001-61"
+  },
+  {
+    "NOME ": "Gabriela Nicoletti Schwambach Souza",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "238.607-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.542.486/0001-81"
+  },
+  {
+    "NOME ": "Geovana Kloss",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "EMAIL",
+    "CHAVE PIX": "geovana.kloss@gmail.com"
+  },
+  {
+    "NOME ": "Giovanna Pauletti  de Castro",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51534559000132
+  },
+  {
+    "NOME ": "Guilherme Rossi Tebaldi",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "BTG",
+    "AGENCIA": "0050",
+    "CONTA": "571857-6",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Gustavo Maffioletti Dalcumune",
+    "CPF": "",
+    "COD BANCO": 360,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "36996019-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.801.282/0001-43"
+  },
+  {
+    "NOME ": "Ianna Pereira Soares",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP S. A.",
+    "AGENCIA": "0001",
+    "CONTA": "5011806",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Igor Barroso Rangel",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "378111888-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55704569000120
+  },
+  {
+    "NOME ": "Isabela Leite Wanick Mattos",
+    "CPF": "",
+    "COD BANCO": 509,
+    "BANCO": "CELCOIN",
+    "AGENCIA": "0001",
+    "CONTA": "432734481",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57906367000196
+  },
+  {
+    "NOME ": "Jasmin Januth Vieira",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "QI SOC CRÉD",
+    "AGENCIA": "0001",
+    "CONTA": "6859506-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61491078000140
+  },
+  {
+    "NOME ": "Isabella Dal Col Picinin",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.307.674/0001-13"
+  },
+  {
+    "NOME ": "João Gabriel Siqueira Mendes",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "41222895-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.549.192/0001-70"
+  },
+  {
+    "NOME ": "Julia Pomaroli Dias",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "657033375-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58227728000130
+  },
+  {
+    "NOME ": "Juliana Gasperazzo Cabral",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57930160000157
+  },
+  {
+    "NOME ": "Karoline Queiroz Salvador",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "CORA SCD",
+    "AGENCIA": "0001",
+    "CONTA": "5253427-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.349.162/0001-57"
+  },
+  {
+    "NOME ": "Lara Martineli Lubiana",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "260",
+    "AGENCIA": "0001",
+    "CONTA": "333325684-9",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "61.402.123/0001-43"
+  },
+  {
+    "NOME ": "Lahís Nogueira Camatta Chaves",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora-SCD",
+    "AGENCIA": "0001",
+    "CONTA": "52923359",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.293.144/0001-75"
+  },
+  {
+    "NOME ": "Letícia Starling Fernandes",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "5011636",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 59162995000130
+  },
+  {
+    "NOME ": "Liza Valim de Mello",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "53921831-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57932081000185
+  },
+  {
+    "NOME ": "Lucas Lobo de Queiroz",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "459177281",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "50.605.703/0001-11"
+  },
+  {
+    "NOME ": "Luis Eduardo Almeida Chequer",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "033 Santander",
+    "AGENCIA": "4316",
+    "CONTA": "13006250-5",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lucas Mariton Albuquerque Fonseca",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55904364000198
+  },
+  {
+    "NOME ": "Manuela Pretti Laranja da Silva",
+    "CPF": "",
+    "COD BANCO": 7,
+    "BANCO": "Inter",
+    "AGENCIA": "001",
+    "CONTA": "42351641-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "593813550001-10"
+  },
+  {
+    "NOME ": "Maria Clara Matheus de Carvalho",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "0001",
+    "CONTA": "4311014-6",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61131484000100
+  },
+  {
+    "NOME ": "Maria Eduarda Rodrigues Zenateli",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.008.645/0001-50"
+  },
+  {
+    "NOME ": "Mariana de Souza Zandonade",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "50114-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57394491000110
+  },
+  {
+    "NOME ": "Matheus Costa Esperidon",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5373373-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.052.669/0001-07"
+  },
+  {
+    "NOME ": "Matheus Moura Novelli",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5455983-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.435.932/0001-47"
+  },
+  {
+    "NOME ": "Natalia Duarte Nunes",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "0001",
+    "CONTA": "3871555-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61008365000157
+  },
+  {
+    "NOME ": "Olga Felicia Caballero Gilardy Mantovani",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52218-X",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "31.023.439/0001-63"
+  },
+  {
+    "NOME ": "Otávio Ferreira Nunes",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "001",
+    "CONTA": "5011300",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.508.125/0001-07"
+  },
+  {
+    "NOME ": "Pedro Freire dos Santos",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52384-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "31.001.243/0001-78"
+  },
+  {
+    "NOME ": "Pedro Heleno de Almeida Duarte Filho",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "46679767-4",
+    "TIPO CHAVE PIX": "cnpj",
+    "CHAVE PIX": "46.435.083/0001-42"
+  },
+  {
+    "NOME ": "Pedro Henrique Viera Fonseca",
+    "CPF": "",
+    "COD BANCO": 197,
+    "BANCO": "Stone Pagamentos S.A.",
+    "AGENCIA": "0001",
+    "CONTA": "2827228-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "42.808.130/0001-03"
+  },
+  {
+    "NOME ": "Pietra Sardinha Silvestre Mousinho Donato",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "501823",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.740.529/0001-69"
+  },
+  {
+    "NOME ": "Rafaela Gava Secchin",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "501728",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.017.917/0001-89"
+  },
+  {
+    "NOME ": "Ramon Ott Vargas",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "33 866 233 0001 20"
+  },
+  {
+    "NOME ": "Rebecca Bacellar Barreto de Sousa",
+    "CPF": "",
+    "COD BANCO": 301,
+    "BANCO": "DOCK IP",
+    "AGENCIA": "0001",
+    "CONTA": "501179-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 59632989000107
+  },
+  {
+    "NOME ": "Renzo Lamego Nunes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "040347965-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.723.234/0001-84"
+  },
+  {
+    "NOME ": "Shayenne Nogueira Domingues",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "849184929-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58771102000190
+  },
+  {
+    "NOME ": "Tatiana Fraga Fonseca",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "7800",
+    "CONTA": "170380-3",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "44.556.119/0001-10"
+  },
+  {
+    "NOME ": "Ana Claudia Rodrigues Ferreira",
+    "CPF": "104.887.856-26",
+    "COD BANCO": "",
+    "BANCO": "Itau",
+    "AGENCIA": "3041",
+    "CONTA": "32707-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "104.887.856-26"
+  },
+  {
+    "NOME ": "Camila Moreira Silva",
+    "CPF": "041.195.715-56",
+    "COD BANCO": "",
+    "BANCO": "Bradesco",
+    "AGENCIA": "1652",
+    "CONTA": "80399 - 5",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "041.195.715-56"
+  },
+  {
+    "NOME ": "Daniela Carvalho de Queiroz",
+    "CPF": "098.983.377-10",
+    "COD BANCO": "",
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3130-5",
+    "CONTA": "8593-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "098.983.377-10"
+  },
+  {
+    "NOME ": "Larissa Mendes do Monte",
+    "CPF": "016.093.926-71",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "04263-1",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(33)984184768"
+  },
+  {
+    "NOME ": "Laura Alvarenga Siqueira de Souza",
+    "CPF": "176.105.997-19",
+    "COD BANCO": "",
+    "BANCO": "SANTANDER",
+    "AGENCIA": "2304",
+    "CONTA": "010320793",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "176.105.997-19"
+  },
+  {
+    "NOME ": "Laura Pires Ligeiro",
+    "CPF": "101.590.096-85",
+    "COD BANCO": 77,
+    "BANCO": "INTER",
+    "AGENCIA": "0001",
+    "CONTA": "21631964-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "101.590.096-85"
+  },
+  {
+    "NOME ": "Lorena Pimentel Rodrigues",
+    "CPF": "105.777.227-51",
+    "COD BANCO": "",
+    "BANCO": "banestes",
+    "AGENCIA": "685",
+    "CONTA": "2746057-5",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)997119081"
+  },
+  {
+    "NOME ": "Luiz Felipe Guimarães Lopes",
+    "CPF": "117.856.627-75",
+    "COD BANCO": "",
+    "BANCO": "Bradesco",
+    "AGENCIA": "2612",
+    "CONTA": "202843",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(21)982430809"
+  },
+  {
+    "NOME ": "Mariana Loureiro Rocha",
+    "CPF": "157.239.377-74",
+    "COD BANCO": "",
+    "BANCO": "Sicoob",
+    "AGENCIA": "3001",
+    "CONTA": "147966",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "157.239.377-74"
+  },
+  {
+    "NOME ": "Nays Pavani Barcellos",
+    "CPF": "139.188.817-09",
+    "COD BANCO": "",
+    "BANCO": "SANTANDER",
+    "AGENCIA": "1945",
+    "CONTA": "01001253-1",
+    "TIPO CHAVE PIX": "CEL",
+    "CHAVE PIX": "(27)996897804"
+  },
+  {
+    "NOME ": "Sabrina Neres Quinino",
+    "CPF": "041.464.325-96",
+    "COD BANCO": "",
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3212-3",
+    "CONTA": "42155-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "041.464.325-96"
+  },
+  {
+    "NOME ": "Vitor Dadalto Oliveira",
+    "CPF": "141.932.097-17",
+    "COD BANCO": "",
+    "BANCO": "Santander",
+    "AGENCIA": "3533",
+    "CONTA": "01092024-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "141.932.097-17"
+  },
+  {
+    "NOME ": "Amir Nasser Lauar",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "7678891-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "44.749.627/0001-15"
+  },
+  {
+    "NOME ": "Ana Luisa Barroso Schumaker",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "173871-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Bianca Paola da Silva Cea",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "32619994-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 46874140000190
+  },
+  {
+    "NOME ": "Fernando Lucas Carvalho de Oliveira",
+    "CPF": "",
+    "COD BANCO": 748,
+    "BANCO": "Sicred",
+    "AGENCIA": "0167",
+    "CONTA": "49786-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.760.899/0001-20"
+  },
+  {
+    "NOME ": "Gabriel Eurico Alves de Castro",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "13004411-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "33.346.296/0001-56"
+  },
+  {
+    "NOME ": "Isabela de Oliveira Lorenzutti",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "44416992-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53.161.880/0001-44"
+  },
+  {
+    "NOME ": "Júlia Baptista Leal",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Santaner",
+    "AGENCIA": "3345",
+    "CONTA": "02003036-9",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "154.266.517-52"
+  },
+  {
+    "NOME ": "Lídia Costa Barros Miranda",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "74-4",
+    "CONTA": "61510-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "52.240.214/0001-39"
+  },
+  {
+    "NOME ": "Esther B Fantin Fundão",
+    "CPF": "118.418.887-45",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "39668-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11841888745
+  },
+  {
+    "NOME ": "Julio Lopes Serafim",
+    "CPF": "138.686.887-65",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "059",
+    "CONTA": "29454733",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13868688765
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Anna Clara de Amorim Rubim Gregio",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1802-3",
+    "CONTA": "62033-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "42.921.307/0001-75"
+  },
+  {
+    "NOME ": "Arthur Aguiar e Carneiro Leal Lopes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "26537400-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 48988472000120
+  },
+  {
+    "NOME ": "Barbara Balla Merçom",
+    "CPF": "158.141.457-90",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "56896-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 3248611700113
+  },
+  {
+    "NOME ": "Camila Magioni Figueira",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "6297597-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 37135025000102
+  },
+  {
+    "NOME ": "Clara Cotta D'Avila e Silva",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "39450419-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 56002318000166
+  },
+  {
+    "NOME ": "Diego Lopes Prado",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "162.353-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 45618978000150
+  },
+  {
+    "NOME ": "Emanuelly de Oliveira Costa",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "36727543-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55405751000180
+  },
+  {
+    "NOME ": "Gabriel Gonçalves Guimaraes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "32471354-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 52872269000161
+  },
+  {
+    "NOME ": "Gustavo Henrique Freitas Emerick",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "150317-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "43.904.552/0001-37"
+  },
+  {
+    "NOME ": "Gustavo Pinheiro Torres",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "98514787-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51246305000119
+  },
+  {
+    "NOME ": "João Guilherme de Oliveira Machado",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "147668-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43504037000160
+  },
+  {
+    "NOME ": "João Pedro Rezende Sobreira",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "36507735-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "43.007.800/0001-47"
+  },
+  {
+    "NOME ": "Laura Gonçalves Rodrigues Aguiar",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "46717706-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "52.074.091/0001-03"
+  },
+  {
+    "NOME ": "Luiza Marques Paterline",
+    "CPF": "167.851.197-82",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "4867",
+    "CONTA": "336622",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "luizapaterline@hotmail.com"
+  },
+  {
+    "NOME ": "Maria Eduarda Rodrigues Zenateli",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.008.645/0001-50"
+  },
+  {
+    "NOME ": "Mariana de Assis Miranda",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3007",
+    "CONTA": "425.564-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.341.273/0001-91"
+  },
+  {
+    "NOME ": "Marina Bittencourt Narciso",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57916244000136
+  },
+  {
+    "NOME ": "Pedro Henrique da Costa Leal",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3260",
+    "CONTA": "90.757-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 47549979000115
+  },
+  {
+    "NOME ": "Pietra Macedo Bianchini",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "0021-3",
+    "CONTA": "49.666-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 25316409000142
+  },
+  {
+    "NOME ": "Rizia Alves Lopes",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "53436-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "34.126.211/0001-97"
+  },
+  {
+    "NOME ": "Rodrigo Lagares da Silva Basso",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "33413589-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53.422.276/0001-24"
+  },
+  {
+    "NOME ": "Tiago Brasileiro Bogea",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "29883951-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.213.041/0001-05"
+  },
+  {
+    "NOME ": "Wilson Videla Hemerly Junior",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "BancoCora",
+    "AGENCIA": "0001",
+    "CONTA": "4153762-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51499263000128
+  },
+  {
+    "NOME ": "Yuri Gomes Carneiro Machado",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "18089162-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 44104376000111
+  },
+  {
+    "NOME ": "Larissa Gomes Raimundo",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Sicoob",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "Sara Janne Alves Arantes",
+    "CPF": "158827957-02",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "50167515-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 15882795702
+  },
+  {
+    "NOME ": "Amanda Bermudes Mendonça",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "305620010",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.061.329/0001-01"
+  },
+  {
+    "NOME ": "Brenda Palles de Abreu",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "242.444-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.570.206/0001-49"
+  },
+  {
+    "NOME ": "Carlos Otavio de Jesus",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3053",
+    "CONTA": "213427-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 34555816000101
+  },
+  {
+    "NOME ": "Ester Ferreira Montarrois",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400",
+    "CONTA": "51.394-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 29468729000179
+  },
+  {
+    "NOME ": "Fernanda Vianna Baptista da Fonseca",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "29431007-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "50.917.058/0001-72"
+  },
+  {
+    "NOME ": "Izabella Gomes Marchezi",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "65093622-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 48478757000111
+  },
+  {
+    "NOME ": "Leila Gomes Da Cunha Pacheco",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400",
+    "CONTA": "513946",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 29468729000179
+  },
+  {
+    "NOME ": "Leonardo Constantino Scardua",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Banco Cora",
+    "AGENCIA": "0001",
+    "CONTA": "4228159-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.714.098/0001-80"
+  },
+  {
+    "NOME ": "Marcela Ribeiro Tardin Alves",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3193-3",
+    "CONTA": "34038-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "05.913.288/0001-09"
+  },
+  {
+    "NOME ": "Roberta Heringer Freire Bragatto",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "2226146",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 53193138000110
+  },
+  {
+    "NOME ": "Wilcler Hott Vieira",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3690-0",
+    "CONTA": "19414-x",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "33.866.233/0001-20"
+  },
+  {
+    "NOME ": "Esther B Fantin Fundão",
+    "CPF": "118.418.887-45",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "39668-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11841888745
+  },
+  {
+    "NOME ": "Joao Vitor Afonso Mattos",
+    "CPF": "173.770.177-40",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "0788",
+    "CONTA": "010325185",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 17377017740
+  },
+  {
+    "NOME ": "Julio Lopes Serafim",
+    "CPF": "138.686.887-65",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "059",
+    "CONTA": "29454733",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13868688765
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "João Guilherme de Oliveira Machado",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "147668-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43504037000160
+  },
+  {
+    "NOME ": "Luiza Marques Paterline",
+    "CPF": "167.851.197-82",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "4867",
+    "CONTA": "336622",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "luizapaterline@hotmail.com"
+  },
+  {
+    "NOME ": "Camila Moreira Silva",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "147668-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43504037000160
+  },
+  {
+    "NOME ": "Esther B Fantin Fundão",
+    "CPF": "118.418.887-45",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "39668-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11841888745
+  },
+  {
+    "NOME ": "Julio Lopes Serafim",
+    "CPF": "138.686.887-65",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "059",
+    "CONTA": "29454733",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13868688765
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Anna Clara de Amorim Rubim Gregio",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1802-3",
+    "CONTA": "62033-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "42.921.307/0001-75"
+  },
+  {
+    "NOME ": "Arthur Aguiar e Carneiro Leal Lopes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "26537400-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 48988472000120
+  },
+  {
+    "NOME ": "Barbara Balla Merçom",
+    "CPF": "158.141.457-90",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "56896-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 3248611700113
+  },
+  {
+    "NOME ": "Camila Magioni Figueira",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "6297597-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 37135025000102
+  },
+  {
+    "NOME ": "Clara Cotta D'Avila e Silva",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "39450419-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 56002318000166
+  },
+  {
+    "NOME ": "Diego Lopes Prado",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "162.353-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 45618978000150
+  },
+  {
+    "NOME ": "Emanuelly de Oliveira Costa",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "36727543-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55405751000180
+  },
+  {
+    "NOME ": "Gabriel Gonçalves Guimaraes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "32471354-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 52872269000161
+  },
+  {
+    "NOME ": "Gustavo Henrique Freitas Emerick",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "150317-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "43.904.552/0001-37"
+  },
+  {
+    "NOME ": "Gustavo Pinheiro Torres",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "98514787-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51246305000119
+  },
+  {
+    "NOME ": "João Guilherme de Oliveira Machado",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "147668-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43504037000160
+  },
+  {
+    "NOME ": "João Pedro Rezende Sobreira",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "36507735-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "43.007.800/0001-47"
+  },
+  {
+    "NOME ": "Julia Boneli Lee",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Sicred",
+    "AGENCIA": "0167",
+    "CONTA": "361004",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53.107.615/0001-88"
+  },
+  {
+    "NOME ": "Laura Gonçalves Rodrigues Aguiar",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "46717706-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "52.074.091/0001-03"
+  },
+  {
+    "NOME ": "Leonardo Rangel Littig",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "13006087-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53.086.044/0001-42"
+  },
+  {
+    "NOME ": "Luiza Marques Paterline",
+    "CPF": "167.851.197-82",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "4867",
+    "CONTA": "336622",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "luizapaterline@hotmail.com"
+  },
+  {
+    "NOME ": "Maria Eduarda Rodrigues Zenateli",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.008.645/0001-50"
+  },
+  {
+    "NOME ": "Mariana de Assis Miranda",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3007",
+    "CONTA": "425.564-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.341.273/0001-91"
+  },
+  {
+    "NOME ": "Marina Bittencourt Narciso",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 57916244000136
+  },
+  {
+    "NOME ": "Pedro Henrique da Costa Leal",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3260",
+    "CONTA": "90.757-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 47549979000115
+  },
+  {
+    "NOME ": "Pietra Macedo Bianchini",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "0021-3",
+    "CONTA": "49.666-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 25316409000142
+  },
+  {
+    "NOME ": "Rizia Alves Lopes",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "53436-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "34.126.211/0001-97"
+  },
+  {
+    "NOME ": "Rodrigo Lagares da Silva Basso",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "33413589-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53.422.276/0001-24"
+  },
+  {
+    "NOME ": "Tiago Brasileiro Bogea",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "29883951-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.213.041/0001-05"
+  },
+  {
+    "NOME ": "Wilson Videla Hemerly Junior",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "BancoCora",
+    "AGENCIA": "0001",
+    "CONTA": "4153762-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51499263000128
+  },
+  {
+    "NOME ": "Yuri Gomes Carneiro Machado",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "18089162-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 44104376000111
+  },
+  {
+    "NOME ": "Larissa Gomes Raimundo",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "Sicoob",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "Sara Janne Alves Arantes",
+    "CPF": "158827957-02",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "50167515-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 15882795702
+  },
+  {
+    "NOME ": "Amanda Bermudes Mendonça",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "305620010",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.061.329/0001-01"
+  },
+  {
+    "NOME ": "Amanda Santos de Souza",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "4316",
+    "CONTA": "130053064",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "46.773.122/0001-11"
+  },
+  {
+    "NOME ": "Brenda Palles de Abreu",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "242.444-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.570.206/0001-49"
+  },
+  {
+    "NOME ": "Carlos Otavio de Jesus",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3053",
+    "CONTA": "213427-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 34555816000101
+  },
+  {
+    "NOME ": "Ester Ferreira Montarrois",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400",
+    "CONTA": "51.394-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 29468729000179
+  },
+  {
+    "NOME ": "Fernanda Vianna Baptista da Fonseca",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "29431007-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "50.917.058/0001-72"
+  },
+  {
+    "NOME ": "Izabella Gomes Marchezi",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "65093622-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 48478757000111
+  },
+  {
+    "NOME ": "Leila Gomes Da Cunha Pacheco",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400",
+    "CONTA": "513946",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 29468729000179
+  },
+  {
+    "NOME ": "Leonardo Constantino Scardua",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Banco Cora",
+    "AGENCIA": "0001",
+    "CONTA": "4228159-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.714.098/0001-80"
+  },
+  {
+    "NOME ": "Marcela Ribeiro Tardin Alves",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3193-3",
+    "CONTA": "34038-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "05.913.288/0001-09"
+  },
+  {
+    "NOME ": "Roberta Heringer Freire Bragatto",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "2226146",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 53193138000110
+  },
+  {
+    "NOME ": "Wilcler Hott Vieira",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3690-0",
+    "CONTA": "19414-x",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "33.866.233/0001-20"
+  },
+  {
+    "NOME ": "Esther B Fantin Fundão",
+    "CPF": "118.418.887-45",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "39668-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11841888745
+  },
+  {
+    "NOME ": "Joao Vitor Afonso Mattos",
+    "CPF": "173.770.177-40",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "0788",
+    "CONTA": "010325185",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 17377017740
+  },
+  {
+    "NOME ": "Julio Lopes Serafim",
+    "CPF": "138.686.887-65",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "059",
+    "CONTA": "29454733",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13868688765
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "João Guilherme de Oliveira Machado",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "147668-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43504037000160
+  },
+  {
+    "NOME ": "Luiza Marques Paterline",
+    "CPF": "167.851.197-82",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "4867",
+    "CONTA": "336622",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "luizapaterline@hotmail.com"
+  },
+  {
+    "NOME ": "Camila Moreira Silva",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3010",
+    "CONTA": "147668-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43504037000160
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Carolina Siqueira Souza",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61217801000106
+  },
+  {
+    "NOME ": "Guilherme Burini Lopes",
+    "CPF": "",
+    "COD BANCO": 208,
+    "BANCO": "Pactual",
+    "AGENCIA": "",
+    "CONTA": "415932-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 48311210000127
+  },
+  {
+    "NOME ": "Lucas Cozer Pinheiro de Lemos",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "28438297-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51527922000192
+  },
+  {
+    "NOME ": "Rizia Alves Lopes",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "53436-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "34.126.211/0001-97"
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rogerio Teixeira Fernandes",
+    "CPF": "053.025.537-59",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4210-2",
+    "CONTA": "35099-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "rgo500@gmail.com"
+  },
+  {
+    "NOME ": "Samara Melhem",
+    "CPF": "073.534.447-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4035-5",
+    "CONTA": "1137-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "073534447-70"
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lavínya Araujo Callegari",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "38414702-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "56.104.757/0001-80"
+  },
+  {
+    "NOME ": "Rogerio Teixeira Fernandes",
+    "CPF": "053.025.537-59",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4210-2",
+    "CONTA": "35099-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "rgo500@gmail.com"
+  },
+  {
+    "NOME ": "Samara Melhem",
+    "CPF": "073.534.447-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4035-5",
+    "CONTA": "1137-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "073534447-70"
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Carolina Siqueira Souza",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 61217801000106
+  },
+  {
+    "NOME ": "Guilherme Burini Lopes",
+    "CPF": "",
+    "COD BANCO": 208,
+    "BANCO": "Pactual",
+    "AGENCIA": "",
+    "CONTA": "415932-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 48311210000127
+  },
+  {
+    "NOME ": "Lucas Cozer Pinheiro de Lemos",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "28438297-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51527922000192
+  },
+  {
+    "NOME ": "Rizia Alves Lopes",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "53436-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "34.126.211/0001-97"
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rogerio Teixeira Fernandes",
+    "CPF": "053.025.537-59",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4210-2",
+    "CONTA": "35099-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "rgo500@gmail.com"
+  },
+  {
+    "NOME ": "Samara Melhem",
+    "CPF": "073.534.447-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4035-5",
+    "CONTA": "1137-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "073534447-70"
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lavínya Araujo Callegari",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "38414702-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "56.104.757/0001-80"
+  },
+  {
+    "NOME ": "Rogerio Teixeira Fernandes",
+    "CPF": "053.025.537-59",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4210-2",
+    "CONTA": "35099-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "rgo500@gmail.com"
+  },
+  {
+    "NOME ": "Samara Melhem",
+    "CPF": "073.534.447-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "4035-5",
+    "CONTA": "1137-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": "073534447-70"
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Adriano Barbosa Lucas Almeida",
+    "CPF": "140.794.977-25",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1829",
+    "CONTA": "01002913-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14079497725
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Amanda Santos Loureiro",
+    "CPF": "103.114.707-18",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Diego Augusto dos Reis Gama",
+    "CPF": "119.273.827-69",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11927382769
+  },
+  {
+    "NOME ": "Fernando Mognato de Jesus",
+    "CPF": "114.310.297-50",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "1877308-7",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27999996762
+  },
+  {
+    "NOME ": "Lucas Duarte Nunes",
+    "CPF": "173.694.137-21",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "81787445-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 17369413721
+  },
+  {
+    "NOME ": "Maria Eugenia Ferreira Faria",
+    "CPF": "144.881.737-48",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "43058-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14488173748
+  },
+  {
+    "NOME ": "Rafael Firme Ginelli",
+    "CPF": "128.843.277-11",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "35451073-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Aira de Alcantara Sabadini",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "29701868-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 50622981000187
+  },
+  {
+    "NOME ": "André Luiz Paulino Mayworm",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "36845272-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.510.704/0001-04"
+  },
+  {
+    "NOME ": "Bárbara Balla Merçom",
+    "CPF": "158.141.457-90",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "56896-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 3248611700113
+  },
+  {
+    "NOME ": "Bianca Rosa Dell Santo",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "41244696-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58569279000109
+  },
+  {
+    "NOME ": "Brendon Nunes da Silva",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "6257950-9",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Carolina Goese Groberio",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.671.410/0001-44"
+  },
+  {
+    "NOME ": "Felipe Gomes Picalo",
+    "CPF": "171.338.137-00",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1236047-3",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 17133813700
+  },
+  {
+    "NOME ": "Filipe Farias Piassi",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "2552",
+    "CONTA": "13.000215-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.627.669/0001-08"
+  },
+  {
+    "NOME ": "Franciele Flodoaldo",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "192999928-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 61131703000143
+  },
+  {
+    "NOME ": "Frankson Elionai Lima D Oliveira Cunha",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "260",
+    "AGENCIA": "0001",
+    "CONTA": "48057236-6",
+    "TIPO CHAVE PIX": "Pix cpf: 060.552.107-70",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Igor Barroso Rangel",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "37811888-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.704.569/0001-20"
+  },
+  {
+    "NOME ": "João Carlos Fregonazzi Tavares",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3790-7",
+    "CONTA": "200010-5",
+    "TIPO CHAVE PIX": "celular",
+    "CHAVE PIX": 27988084488
+  },
+  {
+    "NOME ": "Julia Bergamim de La Puente",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1542",
+    "CONTA": "130021245",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53118625/0001-19"
+  },
+  {
+    "NOME ": "Julia Pomaroli Dias",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "657033375-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58227728000130
+  },
+  {
+    "NOME ": "Lara Duarte Dassie",
+    "CPF": "142.215.467-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3049-X",
+    "CONTA": "76036-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14221546700
+  },
+  {
+    "NOME ": "Larah Amaral Ferrugini",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5360335-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.991.301/0001-41"
+  },
+  {
+    "NOME ": "Leticia Rego Dalvi",
+    "CPF": "133.623.437-75",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7074",
+    "CONTA": "11809-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lucas Machado Duarte",
+    "CPF": "151.535.557-80",
+    "COD BANCO": 237,
+    "BANCO": "Bradesco",
+    "AGENCIA": "2313 2",
+    "CONTA": "0091300 6",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": "27 998947764"
+  },
+  {
+    "NOME ": "Thais Possato Fraga",
+    "CPF": "Vai entrar? VERIFICAR",
+    "COD BANCO": 104,
+    "BANCO": "Caixa",
+    "AGENCIA": "1112",
+    "CONTA": "3446-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 53073949000188
+  },
+  {
+    "NOME ": "Alana Cupertino",
+    "CPF": "146.260.457-90",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "40298407-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "alana.csimora@gmail.com"
+  },
+  {
+    "NOME ": "Edson Arruda Junior",
+    "CPF": "137.070.337-67",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0059",
+    "CONTA": "312059-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13707033767
+  },
+  {
+    "NOME ": "Fellipe Sant’Anna Almada",
+    "CPF": "112.847.717-33",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "01008914-9",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11284771733
+  },
+  {
+    "NOME ": "Larissa Gomes Raimundo",
+    "CPF": "120.185.877-14",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3007",
+    "CONTA": "236.340-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "Lorrayne Rubia de Oliveira",
+    "CPF": "133.831.317-77",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "1034",
+    "CONTA": "24694-4",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998751072
+  },
+  {
+    "NOME ": "Mauro Melo",
+    "CPF": "574.788.997-49",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1983",
+    "CONTA": "1333818-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafael Lima Gomes Duarte",
+    "CPF": "157.537.757-80",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafaela Mendes Leocadio",
+    "CPF": "054.744.375-79",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52121-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5474437579
+  },
+  {
+    "NOME ": "Sergio Ricardo Souza Claudino",
+    "CPF": "058.973.577-22",
+    "COD BANCO": 341,
+    "BANCO": "Banco Itaú",
+    "AGENCIA": "6555",
+    "CONTA": "16610-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Emanuel Moura de Souza Santos",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Banco Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5308679-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.713.874/0001-03"
+  },
+  {
+    "NOME ": "Lara Loureiro Sousa",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "26802057-6",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Nikhole Oliveira",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "35309639-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.088.850/0001-73"
+  },
+  {
+    "NOME ": "Rafaella Vila Real Barbosa Laguardia",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "15619823-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43494938000118
+  },
+  {
+    "NOME ": "Sara Janne Alves Arante",
+    "CPF": "158827957-02",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "50167515-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 15882795702
+  },
+  {
+    "NOME ": "Alana Cupertino",
+    "CPF": "146.260.457-90",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "40298407-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "alana.csimora@gmail.com"
+  },
+  {
+    "NOME ": "Fellipe Sant’Anna Almada",
+    "CPF": "112.847.717-33",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "01008914-9",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11284771733
+  },
+  {
+    "NOME ": "Larissa Gomes Raimundo",
+    "CPF": "120.185.877-14",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3007",
+    "CONTA": "236.340-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "Lorrayne Rubia de Oliveira",
+    "CPF": "133.831.317-77",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "1034",
+    "CONTA": "24694-4",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998751072
+  },
+  {
+    "NOME ": "Mauro Melo",
+    "CPF": "574.788.997-49",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1983",
+    "CONTA": "1333818-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafael Lima Gomes Duarte",
+    "CPF": "157.537.757-80",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafaela Mendes Leocadio",
+    "CPF": "054.744.375-79",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52121-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5474437579
+  },
+  {
+    "NOME ": "Sergio Ricardo Souza Claudino",
+    "CPF": "058.973.577-22",
+    "COD BANCO": 341,
+    "BANCO": "Banco Itaú",
+    "AGENCIA": "6555",
+    "CONTA": "16610-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Edson Arruda Junior",
+    "CPF": "137.070.337-67",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0059",
+    "CONTA": "312059-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13707033767
+  },
+  {
+    "NOME ": "Amanda Santos Loureiro",
+    "CPF": "103.114.707-18",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Diego Augusto dos Reis Gama",
+    "CPF": "119.273.827-69",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11927382769
+  },
+  {
+    "NOME ": "Fernando Mognato de Jesus",
+    "CPF": "114.310.297-50",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "1877308-7",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27999996762
+  },
+  {
+    "NOME ": "Lucas Duarte Nunes",
+    "CPF": "173.694.137-21",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "81787445-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 17369413721
+  },
+  {
+    "NOME ": "Maria Eugenia Ferreira Faria",
+    "CPF": "144.881.737-48",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "43058-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14488173748
+  },
+  {
+    "NOME ": "Rafael Firme Ginelli",
+    "CPF": "128.843.277-11",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "35451073-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Sara Janne Alves Arante",
+    "CPF": "158827957-02",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "50167515-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 15882795702
+  },
+  {
+    "NOME ": "Lara Duarte Dassie",
+    "CPF": "142.215.467-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3049-X",
+    "CONTA": "76036-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14221546700
+  },
+  {
+    "NOME ": "Leticia Rego Dalvi",
+    "CPF": "133.623.437-75",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7074",
+    "CONTA": "11809-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Adriana Gomes do Amaral",
+    "CPF": "142.215.467-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3049-X",
+    "CONTA": "76036-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14221546700
+  },
+  {
+    "NOME ": "Allana  Gomes Alexandre",
+    "CPF": "102.338.836-73",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "26932607-2",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "allanagomes.a@gmail.com"
+  },
+  {
+    "NOME ": "Amanda Santos Loureiro",
+    "CPF": "103.114.707-18",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Diego Augusto dos Reis Gama",
+    "CPF": "119.273.827-69",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11927382769
+  },
+  {
+    "NOME ": "Lucas Duarte Nunes",
+    "CPF": "173.694.137-21",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "81787445-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 17369413721
+  },
+  {
+    "NOME ": "Maria Eugenia Ferreira Faria",
+    "CPF": "144.881.737-48",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "43058-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14488173748
+  },
+  {
+    "NOME ": "Monique Fortes",
+    "CPF": "147.829.907-07",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafael Firme Ginelli",
+    "CPF": "128.843.277-11",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "35451073-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Adam Marques Fogaça Jose",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "51439-x",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Aira de Alcantara Sabadini",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "29701868-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 50622981000187
+  },
+  {
+    "NOME ": "André Luiz Paulino Mayworm",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "36845272-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.510.704/0001-04"
+  },
+  {
+    "NOME ": "Bárbara Balla Merçom",
+    "CPF": "158.141.457-90",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "56896-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 3248611700113
+  },
+  {
+    "NOME ": "Bianca Rosa Dell Santo",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "41244696-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58569279000109
+  },
+  {
+    "NOME ": "Brendon Nunes da Silva",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "6257950-9",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Carolina Goese Groberio",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.671.410/0001-44"
+  },
+  {
+    "NOME ": "Felipe Gomes Picalo",
+    "CPF": "171.338.137-00",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1236047-3",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": 17133813700
+  },
+  {
+    "NOME ": "Filipe Farias Piassi",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "2552",
+    "CONTA": "13.000215-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.627.669/0001-08"
+  },
+  {
+    "NOME ": "Franciele Flodoaldo",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "192999928-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 61131703000143
+  },
+  {
+    "NOME ": "Frankson Elionai Lima D Oliveira Cunha",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "260",
+    "AGENCIA": "0001",
+    "CONTA": "48057236-6",
+    "TIPO CHAVE PIX": "Pix cpf: 060.552.107-70",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Igor Barroso Rangel",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "37811888-9",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.704.569/0001-20"
+  },
+  {
+    "NOME ": "João Carlos Fregonazzi Tavares",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3790-7",
+    "CONTA": "200010-5",
+    "TIPO CHAVE PIX": "celular",
+    "CHAVE PIX": 27988084488
+  },
+  {
+    "NOME ": "Julia Bergamim de La Puente",
+    "CPF": "",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1542",
+    "CONTA": "130021245",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "53118625/0001-19"
+  },
+  {
+    "NOME ": "Julia Pomaroli Dias",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "657033375-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 58227728000130
+  },
+  {
+    "NOME ": "Lara Duarte Dassie",
+    "CPF": "142.215.467-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3049-X",
+    "CONTA": "76036-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14221546700
+  },
+  {
+    "NOME ": "Larah Amaral Ferrugini",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5360335-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.991.301/0001-41"
+  },
+  {
+    "NOME ": "Leticia Rego Dalvi",
+    "CPF": "133.623.437-75",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7074",
+    "CONTA": "11809-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lucas Machado Duarte",
+    "CPF": "151.535.557-80",
+    "COD BANCO": 237,
+    "BANCO": "Bradesco",
+    "AGENCIA": "2313 2",
+    "CONTA": "0091300 6",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": "27 998947764"
+  },
+  {
+    "NOME ": "Renata Aparecida Cunha",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3007",
+    "CONTA": "2294842",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 48889065000166
+  },
+  {
+    "NOME ": "Thais Possato Fraga",
+    "CPF": "Vai entrar? VERIFICAR",
+    "COD BANCO": 104,
+    "BANCO": "Caixa",
+    "AGENCIA": "1112",
+    "CONTA": "3446-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 53073949000188
+  },
+  {
+    "NOME ": "Alana Cupertino",
+    "CPF": "146.260.457-90",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "40298407-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "alana.csimora@gmail.com"
+  },
+  {
+    "NOME ": "Edson Arruda Junior",
+    "CPF": "137.070.337-67",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0059",
+    "CONTA": "312059-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13707033767
+  },
+  {
+    "NOME ": "Fellipe Sant’Anna Almada",
+    "CPF": "112.847.717-33",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "01008914-9",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11284771733
+  },
+  {
+    "NOME ": "Larissa Gomes Raimundo",
+    "CPF": "120.185.877-14",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3007",
+    "CONTA": "236.340-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "Lorrayne Rubia de Oliveira",
+    "CPF": "133.831.317-77",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "1034",
+    "CONTA": "24694-4",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998751072
+  },
+  {
+    "NOME ": "Mauro Melo",
+    "CPF": "574.788.997-49",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1983",
+    "CONTA": "1333818-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafael Lima Gomes Duarte",
+    "CPF": "157.537.757-80",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafaela Mendes Leocadio",
+    "CPF": "054.744.375-79",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52121-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5474437579
+  },
+  {
+    "NOME ": "Sergio Ricardo Souza Claudino",
+    "CPF": "058.973.577-22",
+    "COD BANCO": 341,
+    "BANCO": "Banco Itaú",
+    "AGENCIA": "6555",
+    "CONTA": "16610-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Emanuel Moura de Souza Santos",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Banco Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5308679-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "57.713.874/0001-03"
+  },
+  {
+    "NOME ": "Lara Loureiro Sousa",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "26802057-6",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Nikhole Oliveira",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "35309639-3",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.088.850/0001-73"
+  },
+  {
+    "NOME ": "Rafaella Vila Real Barbosa Laguardia",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "15619823-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 43494938000118
+  },
+  {
+    "NOME ": "Sara Janne Alves Arante",
+    "CPF": "158827957-02",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "50167515-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 15882795702
+  },
+  {
+    "NOME ": "Alana Cupertino",
+    "CPF": "146.260.457-90",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "40298407-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "alana.csimora@gmail.com"
+  },
+  {
+    "NOME ": "Fellipe Sant’Anna Almada",
+    "CPF": "112.847.717-33",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "3346",
+    "CONTA": "01008914-9",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11284771733
+  },
+  {
+    "NOME ": "Larissa Gomes Raimundo",
+    "CPF": "120.185.877-14",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3007",
+    "CONTA": "236.340-2",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Lisyanet Espinosa Mesa",
+    "CPF": "067.500.321-09",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "09245",
+    "CONTA": "463841",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 6750032109
+  },
+  {
+    "NOME ": "Lorrayne Rubia de Oliveira",
+    "CPF": "133.831.317-77",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "1034",
+    "CONTA": "24694-4",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998751072
+  },
+  {
+    "NOME ": "Mauro Melo",
+    "CPF": "574.788.997-49",
+    "COD BANCO": 33,
+    "BANCO": "Santander",
+    "AGENCIA": "1983",
+    "CONTA": "1333818-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafael Lima Gomes Duarte",
+    "CPF": "157.537.757-80",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafaela Mendes Leocadio",
+    "CPF": "054.744.375-79",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "52121-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5474437579
+  },
+  {
+    "NOME ": "Sergio Ricardo Souza Claudino",
+    "CPF": "058.973.577-22",
+    "COD BANCO": 341,
+    "BANCO": "Banco Itaú",
+    "AGENCIA": "6555",
+    "CONTA": "16610-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Taciana Cassaro Pelissari",
+    "CPF": "114.269.247-71",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5751-7",
+    "CONTA": "1287-4",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Edson Arruda Junior",
+    "CPF": "137.070.337-67",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0059",
+    "CONTA": "312059-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 13707033767
+  },
+  {
+    "NOME ": "Allana  Gomes Alexandre",
+    "CPF": "103.114.707-18",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Amanda Santos Loureiro",
+    "CPF": "119.273.827-69",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 11927382769
+  },
+  {
+    "NOME ": "Ellen de Oliveira Mendes",
+    "CPF": "114.310.297-50",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "1877308-7",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27999996762
+  },
+  {
+    "NOME ": "Maria Eugenia Ferreira Faria",
+    "CPF": "173.694.137-21",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "81787445-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 17369413721
+  },
+  {
+    "NOME ": "Monique Fortes",
+    "CPF": "144.881.737-48",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1400-1",
+    "CONTA": "43058-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14488173748
+  },
+  {
+    "NOME ": "Rafael Firme Ginelli",
+    "CPF": "147.829.907-07",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Rafael Lima Gomes Duarte",
+    "CPF": "128.843.277-11",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "35451073-1",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Sara Janne Alves Arante",
+    "CPF": "158827957-02",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "50167515-1",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 15882795702
+  },
+  {
+    "NOME ": "Lara Duarte Dassie",
+    "CPF": "142.215.467-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3049-X",
+    "CONTA": "76036-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14221546700
+  },
+  {
+    "NOME ": "Leticia Rego Dalvi",
+    "CPF": "133.623.437-75",
+    "COD BANCO": 341,
+    "BANCO": "Itaú",
+    "AGENCIA": "7074",
+    "CONTA": "11809-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Adriana Gomes do Amaral",
+    "CPF": "142.215.467-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "3049-X",
+    "CONTA": "76036-6",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 14221546700
+  },
+  {
+    "NOME ": "Carla Maria Calmon Vintena",
+    "CPF": "005.393.907-71",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0174",
+    "CONTA": "9137878",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998132422
+  },
+  {
+    "NOME ": "Estephania Gonçalves Nogueira",
+    "CPF": "395.403.167-15",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "207",
+    "CONTA": "3569084",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 39540316715
+  },
+  {
+    "NOME ": "Jamille Sara Silva Faria",
+    "CPF": "099.741.876-13",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "3264",
+    "CONTA": "3915115",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "jamillefaria@gmail.com"
+  },
+  {
+    "NOME ": "Kamilla Bourguignon Rossato",
+    "CPF": "167.518.117-99",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "1200",
+    "CONTA": "101700-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16751811799
+  },
+  {
+    "NOME ": "Mariana Rosi Ferreira",
+    "CPF": "131.275.147-94",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "83",
+    "CONTA": "1295393-1",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27999334027
+  },
+  {
+    "NOME ": "Natália Cardoso Corona",
+    "CPF": "126.491.577-20",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "112",
+    "CONTA": "18210989",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 12649157720
+  },
+  {
+    "NOME ": "Robinson Barabani",
+    "CPF": "056.085.057-35",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "14305980-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5608505735
+  },
+  {
+    "NOME ": "André Ferraz Gueiros",
+    "CPF": "167.778.357-50",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "André Luiz Paulino Mayworm",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "36845272-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.510.704/0001-04"
+  },
+  {
+    "NOME ": "Brunno Machado Rodrigues",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "228908952-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55519506000101
+  },
+  {
+    "NOME ": "Bruno Togneri Vescovi Leao",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "21063935-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51029102000170
+  },
+  {
+    "NOME ": "Caroline Barbosa Gomes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "37381342-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Daniel Caversan Bellinazzi de Andrade",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "254.459-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.252.417/0001-82"
+  },
+  {
+    "NOME ": "Debora Borges Monteiro",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.130.218/0001-40"
+  },
+  {
+    "NOME ": "Hugo Mendes Gueiros",
+    "CPF": "129.200.417-70",
+    "COD BANCO": 290,
+    "BANCO": "PagSeguro",
+    "AGENCIA": "0001",
+    "CONTA": "31635468-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 27512156000108
+  },
+  {
+    "NOME ": "Jessica de Araujo Silva Lemos",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "BB",
+    "AGENCIA": "1802-3",
+    "CONTA": "66240-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.342.559/0001-30"
+  },
+  {
+    "NOME ": "João Victor Gava da Conceição",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "869128803-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "56.045.382/0001-24"
+  },
+  {
+    "NOME ": "Leodir Dessabato Coelho",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "240.266-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.704.618/0001-24"
+  },
+  {
+    "NOME ": "Luca Lima Cruz Homem",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "33059405-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.449.757/0001-59"
+  },
+  {
+    "NOME ": "Luiza Alves Liphaus",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "077 Inter",
+    "AGENCIA": "0001",
+    "CONTA": "45659790-5",
+    "TIPO CHAVE PIX": "cnpj",
+    "CHAVE PIX": 61333693000129
+  },
+  {
+    "NOME ": "Maria Eduarda Pereira de Oliveira",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "510307453-5",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "mariaeduardapo@gmail.com"
+  },
+  {
+    "NOME ": "Paula Pedroni Batista Bastos",
+    "CPF": "123.912.687-50",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "18669-3",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998020902
+  },
+  {
+    "NOME ": "Renato de Mattos Cardoso",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "30562366-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51113443000120
+  },
+  {
+    "NOME ": "Carla Maria Calmon Vintena",
+    "CPF": "005.393.907-71",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0174",
+    "CONTA": "9137878",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998132422
+  },
+  {
+    "NOME ": "Carolina Zotelle",
+    "CPF": "",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0108",
+    "CONTA": "3360958-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Catileia Oliveira de Jesus",
+    "CPF": "934.752.335-68",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "0590",
+    "CONTA": "35437-3",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "catidomingas@gmail.com"
+  },
+  {
+    "NOME ": "Edilma Celia Toledo dos Santos",
+    "CPF": "621.203.017-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5081-4",
+    "CONTA": "107096-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 62120301700
+  },
+  {
+    "NOME ": "Elaine Menegardo Gomes",
+    "CPF": "057.256.977-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1802-3",
+    "CONTA": "87102-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 525697770
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino (CMED)",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Jose Rubens Souto Gonçalves",
+    "CPF": "579.284.017-20",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": "27  99691 0831"
+  },
+  {
+    "NOME ": "Jovarci Motta",
+    "CPF": "089.872.837-12",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1211-4",
+    "CONTA": "217441-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 8987283712
+  },
+  {
+    "NOME ": "Lorena Tiengo Garcia",
+    "CPF": "167.824.417-13",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "249625209",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16782441713
+  },
+  {
+    "NOME ": "Sandro Melo da Silva",
+    "CPF": "002.210.857-26",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "24937-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 221085726
+  },
+  {
+    "NOME ": "Vânia Maria Torres de Carvalho",
+    "CPF": "019.826.667-73",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "280003",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 1982666773
+  },
+  {
+    "NOME ": "Kamylla Medina Mayerhofer",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Banco Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5000329-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.474.754/0001-75"
+  },
+  {
+    "NOME ": "Karyna de Matos Ferreira",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "33300613-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.672.509/0001-72"
+  },
+  {
+    "NOME ": "Leticia Amil Nunes Alt",
+    "CPF": "",
+    "COD BANCO": 748,
+    "BANCO": "Sicred",
+    "AGENCIA": "0719",
+    "CONTA": "95826-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "43.042.460/0001-95"
+  },
+  {
+    "NOME ": "Monique Calmon Boa",
+    "CPF": "",
+    "COD BANCO": 208,
+    "BANCO": "Pactual",
+    "AGENCIA": "0050",
+    "CONTA": "399079-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 47240923000184
+  },
+  {
+    "NOME ": "Monizes Ohanna Calmon Boa",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "919717388-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "54.463.610/0001-50"
+  },
+  {
+    "NOME ": "Carolina Zotelle",
+    "CPF": "",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0108",
+    "CONTA": "3360958-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Catileia Oliveira de Jesus",
+    "CPF": "934.752.335-68",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "0590",
+    "CONTA": "35437-3",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "catidomingas@gmail.com"
+  },
+  {
+    "NOME ": "Edilma Celia Toledo dos Santos",
+    "CPF": "621.203.017-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5081-4",
+    "CONTA": "107096-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 62120301700
+  },
+  {
+    "NOME ": "Elaine Menegardo Gomes",
+    "CPF": "057.256.977-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1802-3",
+    "CONTA": "87102-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 525697770
+  },
+  {
+    "NOME ": "Jose Rubens Souto Gonçalves",
+    "CPF": "579.284.017-20",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": "27  99691 0831"
+  },
+  {
+    "NOME ": "Jovarci Motta",
+    "CPF": "089.872.837-12",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1211-4",
+    "CONTA": "217441-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 8987283712
+  },
+  {
+    "NOME ": "Lorena Tiengo Garcia",
+    "CPF": "167.824.417-13",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "249625209",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16782441713
+  },
+  {
+    "NOME ": "Sandro Melo da Silva",
+    "CPF": "002.210.857-26",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "24937-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 221085726
+  },
+  {
+    "NOME ": "Vânia Maria Torres de Carvalho",
+    "CPF": "019.826.667-73",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "280003",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 1982666773
+  },
+  {
+    "NOME ": "Carla Maria Calmon Vintena",
+    "CPF": "005.393.907-71",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0174",
+    "CONTA": "9137878",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998132422
+  },
+  {
+    "NOME ": "Estephania Gonçalves Nogueira",
+    "CPF": "395.403.167-15",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "207",
+    "CONTA": "3569084",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 39540316715
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino (CMED)",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Jamille Sara Silva Faria",
+    "CPF": "099.741.876-13",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "3264",
+    "CONTA": "3915115",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "jamillefaria@gmail.com"
+  },
+  {
+    "NOME ": "Kamilla Bourguignon Rossato",
+    "CPF": "167.518.117-99",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "1200",
+    "CONTA": "101700-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16751811799
+  },
+  {
+    "NOME ": "Mariana Rosi Ferreira",
+    "CPF": "131.275.147-94",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "83",
+    "CONTA": "1295393-1",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27999334027
+  },
+  {
+    "NOME ": "Natália Cardoso Corona",
+    "CPF": "126.491.577-20",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "112",
+    "CONTA": "18210989",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 12649157720
+  },
+  {
+    "NOME ": "Robinson Barabani",
+    "CPF": "056.085.057-35",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "14305980-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5608505735
+  },
+  {
+    "NOME ": "Paula Pedroni Batista Bastos",
+    "CPF": "123.912.687-50",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "18669-3",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998020902
+  },
+  {
+    "NOME ": "Paula Pedroni Batista Bastos",
+    "CPF": "123.912.687-50",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "18669-3",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998020902
+  },
+  {
+    "NOME ": "André Ferraz Gueiros",
+    "CPF": "167.778.357-50",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Hugo Mendes Gueiros",
+    "CPF": "129.200.417-70",
+    "COD BANCO": 290,
+    "BANCO": "PagSeguro",
+    "AGENCIA": "0001",
+    "CONTA": "31635468-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 27512156000108
+  },
+  {
+    "NOME ": "Carla Maria Calmon Vintena",
+    "CPF": "005.393.907-71",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0174",
+    "CONTA": "9137878",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998132422
+  },
+  {
+    "NOME ": "Estephania Gonçalves Nogueira",
+    "CPF": "395.403.167-15",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "207",
+    "CONTA": "3569084",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 39540316715
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Jamille Sara Silva Faria",
+    "CPF": "099.741.876-13",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "3264",
+    "CONTA": "3915115",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "jamillefaria@gmail.com"
+  },
+  {
+    "NOME ": "Kamilla Bourguignon Rossato",
+    "CPF": "167.518.117-99",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "1200",
+    "CONTA": "101700-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16751811799
+  },
+  {
+    "NOME ": "Mariana Rosi Ferreira",
+    "CPF": "131.275.147-94",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "83",
+    "CONTA": "1295393-1",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27999334027
+  },
+  {
+    "NOME ": "Natália Cardoso Corona",
+    "CPF": "126.491.577-20",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "112",
+    "CONTA": "18210989",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 12649157720
+  },
+  {
+    "NOME ": "Robinson Barabani",
+    "CPF": "056.085.057-35",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "14305980-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5608505735
+  },
+  {
+    "NOME ": "André Ferraz Gueiros",
+    "CPF": "167.778.357-50",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "André Luiz Paulino Mayworm",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "36845272-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.510.704/0001-04"
+  },
+  {
+    "NOME ": "Barbara Ferreira Cordeiro",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "4054",
+    "CONTA": "105-631-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "56.660.411/0001-68"
+  },
+  {
+    "NOME ": "Brunno Machado Rodrigues",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "228908952-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 55519506000101
+  },
+  {
+    "NOME ": "Bruno Togneri Vescovi Leao",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "21063935-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51029102000170
+  },
+  {
+    "NOME ": "Caroline Barbosa Gomes",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "37381342-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Daniel Caversan Bellinazzi de Andrade",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "254.459-8",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.252.417/0001-82"
+  },
+  {
+    "NOME ": "Debora Borges Monteiro",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "58.130.218/0001-40"
+  },
+  {
+    "NOME ": "Hugo Mendes Gueiros",
+    "CPF": "129.200.417-70",
+    "COD BANCO": 290,
+    "BANCO": "PagSeguro",
+    "AGENCIA": "0001",
+    "CONTA": "31635468-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 27512156000108
+  },
+  {
+    "NOME ": "Jessica de Araujo Silva Lemos",
+    "CPF": "",
+    "COD BANCO": 1,
+    "BANCO": "BB",
+    "AGENCIA": "1802-3",
+    "CONTA": "66240-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "51.342.559/0001-30"
+  },
+  {
+    "NOME ": "João Victor Gava da Conceição",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "869128803-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "56.045.382/0001-24"
+  },
+  {
+    "NOME ": "Leodir Dessabato Coelho",
+    "CPF": "",
+    "COD BANCO": 756,
+    "BANCO": "Sicoob",
+    "AGENCIA": "3008",
+    "CONTA": "240.266-1",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.704.618/0001-24"
+  },
+  {
+    "NOME ": "Luca Lima Cruz Homem",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "33059405-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.449.757/0001-59"
+  },
+  {
+    "NOME ": "Luiza Alves Liphaus",
+    "CPF": "",
+    "COD BANCO": "",
+    "BANCO": "077 Inter",
+    "AGENCIA": "0001",
+    "CONTA": "45659790-5",
+    "TIPO CHAVE PIX": "cnpj",
+    "CHAVE PIX": 61333693000129
+  },
+  {
+    "NOME ": "Maria Eduarda Pereira de Oliveira",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "510307453-5",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": "mariaeduardapo@gmail.com"
+  },
+  {
+    "NOME ": "Renato de Mattos Cardoso",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "30562366-4",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 51113443000120
+  },
+  {
+    "NOME ": "Carla Maria Calmon Vintena",
+    "CPF": "005.393.907-71",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0174",
+    "CONTA": "9137878",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998132422
+  },
+  {
+    "NOME ": "Carolina Zotelle",
+    "CPF": "",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0108",
+    "CONTA": "3360958-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Catileia Oliveira de Jesus",
+    "CPF": "934.752.335-68",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "0590",
+    "CONTA": "35437-3",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "catidomingas@gmail.com"
+  },
+  {
+    "NOME ": "Edilma Celia Toledo dos Santos",
+    "CPF": "621.203.017-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5081-4",
+    "CONTA": "107096-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 62120301700
+  },
+  {
+    "NOME ": "Elaine Menegardo Gomes",
+    "CPF": "057.256.977-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1802-3",
+    "CONTA": "87102-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 525697770
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino (CMED)",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Jose Rubens Souto Gonçalves",
+    "CPF": "579.284.017-20",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": "27  99691 0831"
+  },
+  {
+    "NOME ": "Jovarci Motta",
+    "CPF": "089.872.837-12",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1211-4",
+    "CONTA": "217441-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 8987283712
+  },
+  {
+    "NOME ": "Lorena Tiengo Garcia",
+    "CPF": "167.824.417-13",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "249625209",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16782441713
+  },
+  {
+    "NOME ": "Sandro Melo da Silva",
+    "CPF": "002.210.857-26",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "24937-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 221085726
+  },
+  {
+    "NOME ": "Vânia Maria Torres de Carvalho",
+    "CPF": "019.826.667-73",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "280003",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 1982666773
+  },
+  {
+    "NOME ": "Kamylla Medina Mayerhofer",
+    "CPF": "",
+    "COD BANCO": 403,
+    "BANCO": "Banco Cora",
+    "AGENCIA": "0001",
+    "CONTA": "5000329-6",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.474.754/0001-75"
+  },
+  {
+    "NOME ": "Karyna de Matos Ferreira",
+    "CPF": "",
+    "COD BANCO": 336,
+    "BANCO": "Banco C6",
+    "AGENCIA": "0001",
+    "CONTA": "33300613-5",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "55.672.509/0001-72"
+  },
+  {
+    "NOME ": "Leticia Amil Nunes Alt",
+    "CPF": "",
+    "COD BANCO": 748,
+    "BANCO": "Sicred",
+    "AGENCIA": "0719",
+    "CONTA": "95826-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "43.042.460/0001-95"
+  },
+  {
+    "NOME ": "Maria Eduarda Oliveira Có",
+    "CPF": "",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "22862687-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 47229717000173
+  },
+  {
+    "NOME ": "Monique Calmon Boa",
+    "CPF": "",
+    "COD BANCO": 208,
+    "BANCO": "Pactual",
+    "AGENCIA": "0050",
+    "CONTA": "399079-0",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 47240923000184
+  },
+  {
+    "NOME ": "Monizes Ohanna Calmon Boa",
+    "CPF": "",
+    "COD BANCO": 260,
+    "BANCO": "Nubank",
+    "AGENCIA": "0001",
+    "CONTA": "919717388-2",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": "54.463.610/0001-50"
+  },
+  {
+    "NOME ": "Carolina Zotelle",
+    "CPF": "",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0108",
+    "CONTA": "3360958-7",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Catileia Oliveira de Jesus",
+    "CPF": "934.752.335-68",
+    "COD BANCO": 104,
+    "BANCO": "CEF",
+    "AGENCIA": "0590",
+    "CONTA": "35437-3",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "catidomingas@gmail.com"
+  },
+  {
+    "NOME ": "Edilma Celia Toledo dos Santos",
+    "CPF": "621.203.017-00",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "5081-4",
+    "CONTA": "107096-7",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 62120301700
+  },
+  {
+    "NOME ": "Elaine Menegardo Gomes",
+    "CPF": "057.256.977-70",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1802-3",
+    "CONTA": "87102-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 525697770
+  },
+  {
+    "NOME ": "Jose Rubens Souto Gonçalves",
+    "CPF": "579.284.017-20",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": "27  99691 0831"
+  },
+  {
+    "NOME ": "Jovarci Motta",
+    "CPF": "089.872.837-12",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "1211-4",
+    "CONTA": "217441-3",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 8987283712
+  },
+  {
+    "NOME ": "Lorena Tiengo Garcia",
+    "CPF": "167.824.417-13",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "249625209",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16782441713
+  },
+  {
+    "NOME ": "Sandro Melo da Silva",
+    "CPF": "002.210.857-26",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "24937-8",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 221085726
+  },
+  {
+    "NOME ": "Vânia Maria Torres de Carvalho",
+    "CPF": "019.826.667-73",
+    "COD BANCO": 1,
+    "BANCO": "Banco do Brasil",
+    "AGENCIA": "12416",
+    "CONTA": "280003",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 1982666773
+  },
+  {
+    "NOME ": "Carla Maria Calmon Vintena",
+    "CPF": "005.393.907-71",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "0174",
+    "CONTA": "9137878",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998132422
+  },
+  {
+    "NOME ": "Estephania Gonçalves Nogueira",
+    "CPF": "395.403.167-15",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "207",
+    "CONTA": "3569084",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 39540316715
+  },
+  {
+    "NOME ": "Filipe Alvarenga Caetano Vitorino (CMED)",
+    "CPF": "152.921.547-17",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "8508470-0",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "filipe-a@hotmail.com"
+  },
+  {
+    "NOME ": "Giovanna Guimaraes Campagnaro",
+    "CPF": "120.972.297-60",
+    "COD BANCO": 77,
+    "BANCO": "Inter",
+    "AGENCIA": "0001",
+    "CONTA": "1133182-8",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Jamille Sara Silva Faria",
+    "CPF": "099.741.876-13",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "3264",
+    "CONTA": "3915115",
+    "TIPO CHAVE PIX": "E-mail",
+    "CHAVE PIX": "jamillefaria@gmail.com"
+  },
+  {
+    "NOME ": "Kamilla Bourguignon Rossato",
+    "CPF": "167.518.117-99",
+    "COD BANCO": 237,
+    "BANCO": "Banco Bradesco",
+    "AGENCIA": "1200",
+    "CONTA": "101700-4",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 16751811799
+  },
+  {
+    "NOME ": "Mariana Rosi Ferreira",
+    "CPF": "131.275.147-94",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "83",
+    "CONTA": "1295393-1",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27999334027
+  },
+  {
+    "NOME ": "Natália Cardoso Corona",
+    "CPF": "126.491.577-20",
+    "COD BANCO": 21,
+    "BANCO": "Banestes",
+    "AGENCIA": "112",
+    "CONTA": "18210989",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 12649157720
+  },
+  {
+    "NOME ": "Robinson Barabani",
+    "CPF": "056.085.057-35",
+    "COD BANCO": 260,
+    "BANCO": "Nu Bank",
+    "AGENCIA": "0001",
+    "CONTA": "14305980-0",
+    "TIPO CHAVE PIX": "CPF",
+    "CHAVE PIX": 5608505735
+  },
+  {
+    "NOME ": "Paula Pedroni Batista Bastos",
+    "CPF": "123.912.687-50",
+    "COD BANCO": "",
+    "BANCO": "Itaú",
+    "AGENCIA": "9604",
+    "CONTA": "18669-3",
+    "TIPO CHAVE PIX": "Celular",
+    "CHAVE PIX": 27998020902
+  },
+  {
+    "NOME ": "André Ferraz Gueiros",
+    "CPF": "167.778.357-50",
+    "COD BANCO": "",
+    "BANCO": "",
+    "AGENCIA": "",
+    "CONTA": "",
+    "TIPO CHAVE PIX": "",
+    "CHAVE PIX": ""
+  },
+  {
+    "NOME ": "Hugo Mendes Gueiros",
+    "CPF": "129.200.417-70",
+    "COD BANCO": 290,
+    "BANCO": "PagSeguro",
+    "AGENCIA": "0001",
+    "CONTA": "31635468-7",
+    "TIPO CHAVE PIX": "CNPJ",
+    "CHAVE PIX": 27512156000108
+  }
+]
